@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nombre": "Manzana ",
+    "calorias": 15
+  },
+  {
+    "id": 2,
+    "nombre": "Espinacas ",
+    "calorias": 55
+  },
+  {
+    "id": 3,
+    "nombre": "Uvas",
+    "calorias": 20
+  },
+  {
+    "id": 4,
+    "nombre": "Camote ",
+    "calorias": 90
+  },
+  {
+    "id": 5,
+    "nombre": "Cerezas",
+    "calorias": 80
+  }
+]
