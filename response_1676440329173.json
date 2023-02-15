@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "Modelo": "Iphone ",
+    "Marca": "Apple",
+    "Precio": 50000
+  },
+  {
+    "id": 2,
+    "Modelo": "Galaxy ",
+    "Marca": "Samsung",
+    "Precio": 60000
+  },
+  {
+    "id": 3,
+    "Modelo": "Galaxy",
+    "Marca": "Samsung",
+    "Precio": 80000
+  },
+  {
+    "id": 4,
+    "Modelo": "Iphone ",
+    "Marca": "Apple",
+    "Precio": 10000
+  },
+  {
+    "id": 5,
+    "Modelo": "Mate ",
+    "Marca": "Huawei",
+    "Precio": 12000
+  }
+]

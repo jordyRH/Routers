@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "Name": "Parasetamol",
+    "Gr": 35,
+    "Precio": 100
+  },
+  {
+    "id": 2,
+    "Name": "Misoprosol",
+    "Gr": 38,
+    "Precio": 120
+  },
+  {
+    "id": 3,
+    "Name": "Next",
+    "Gr": 30,
+    "Precio": 56
+  },
+  {
+    "id": 4,
+    "Name": "Tempra",
+    "Gr": 50,
+    "Precio": 66
+  },
+  {
+    "id": 5,
+    "Name": "Tapsin",
+    "Gr": 25,
+    "Precio": 88
+  }
+]
