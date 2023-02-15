@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "pais": "Mexico ",
+    "poblacion": 150000,
+    "idioma": "Español"
+  },
+  {
+    "id": 2,
+    "pais": "España ",
+    "poblacion": 2000000,
+    "idioma": "Español"
+  },
+  {
+    "id": 3,
+    "pais": "Uruguay",
+    "poblacion": 500000,
+    "idioma": "Español"
+  },
+  {
+    "id": 4,
+    "pais": "Chile ",
+    "poblacion": 250000,
+    "idioma": "Español"
+  },
+  {
+    "id": 5,
+    "pais": "Canada",
+    "poblacion": 1500000,
+    "idioma": "Ingles"
+  }
+]
